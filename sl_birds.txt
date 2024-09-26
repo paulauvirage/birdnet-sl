@@ -1,0 +1,1353 @@
+[[1]]
+[1] "Pycnonotus barbatus_Common Bulbul"
+
+[[2]]
+[1] "Crinifer piscator_Western Plantain-eater"
+
+[[3]]
+[1] "Hypergerus atriceps_Oriole Warbler"
+
+[[4]]
+[1] "Laniarius barbarus_Yellow-crowned Gonolek"
+
+[[5]]
+[1] "Prinia erythroptera_Red-winged Prinia"
+
+[[6]]
+[1] "Turdoides reinwardtii_Blackcap Babbler"
+
+[[7]]
+[1] "Pternistis bicalcaratus_Double-spurred Francolin"
+
+[[8]]
+[1] "Hedydipna platura_Pygmy Sunbird"
+
+[[9]]
+[1] "Lybius vieilloti_Vieillot's Barbet"
+
+[[10]]
+[1] "Lamprotornis caudatus_Long-tailed Glossy Starling"
+
+[[11]]
+[1] "Eremomela pusilla_Senegal Eremomela"
+
+[[12]]
+[1] "Cinnyris coccinigastrus_Splendid Sunbird"
+
+[[13]]
+[1] "Streptopelia semitorquata_Red-eyed Dove"
+
+[[14]]
+[1] "Alethe diademata_White-tailed Alethe"
+
+[[15]]
+[1] "Streptopelia senegalensis_Laughing Dove"
+
+[[16]]
+[1] "Pternistis ahantensis_Ahanta Francolin"
+
+[[17]]
+[1] "Bleda canicapillus_Gray-headed Bristlebill"
+
+[[18]]
+[1] "Poicephalus senegalus_Senegal Parrot"
+
+[[19]]
+[1] "Dicrurus divaricatus_Glossy-backed Drongo"
+
+[[20]]
+[1] "Lagonosticta senegala_Red-billed Firefinch"
+
+[[21]]
+[1] "Illadopsis puveli_Puvel's Illadopsis"
+
+[[22]]
+[1] "Corvus albus_Pied Crow"
+
+[[23]]
+[1] "Spermophaga haematina_Western Bluebill"
+
+[[24]]
+[1] "Malimbus nitens_Blue-billed Malimbe"
+
+[[25]]
+[1] "Coracias abyssinicus_Abyssinian Roller"
+
+[[26]]
+[1] "Bostrychia hagedash_Hadada Ibis"
+
+[[27]]
+[1] "Salpornis salvadori_African Spotted Creeper"
+
+[[28]]
+[1] "Caprimulgus climacurus_Long-tailed Nightjar"
+
+[[29]]
+[1] "Centropus senegalensis_Senegal Coucal"
+
+[[30]]
+[1] "Crithagra mozambica_Yellow-fronted Canary"
+
+[[31]]
+[1] "Cypsiurus parvus_African Palm-Swift"
+
+[[32]]
+[1] "Thescelocichla leucopleura_Swamp Greenbul"
+
+[[33]]
+[1] "Turtur brehmeri_Blue-headed Wood-Dove"
+
+[[34]]
+[1] "Pogoniulus chrysoconus_Yellow-fronted Tinkerbird"
+
+[[35]]
+[1] "Halcyon malimbica_Blue-breasted Kingfisher"
+
+[[36]]
+[1] "Vanellus senegallus_Wattled Lapwing"
+
+[[37]]
+[1] "Tauraco persa_Guinea Turaco"
+
+[[38]]
+[1] "Lamprotornis splendidus_Splendid Starling"
+
+[[39]]
+[1] "Spermestes cucullata_Bronze Mannikin"
+
+[[40]]
+[1] "Passer griseus_Northern Gray-headed Sparrow"
+
+[[41]]
+[1] "Burhinus senegalensis_Senegal Thick-knee"
+
+[[42]]
+[1] "Lamprotornis chloropterus_Lesser Blue-eared Starling"
+
+[[43]]
+[1] "Scopus umbretta_Hamerkop"
+
+[[44]]
+[1] "Chalcomitra senegalensis_Scarlet-chested Sunbird"
+
+[[45]]
+[1] "Streptopelia vinacea_Vinaceous Dove"
+
+[[46]]
+[1] "Ceuthmochares aereus_Blue Malkoha"
+
+[[47]]
+[1] "Hedydipna collaris_Collared Sunbird"
+
+[[48]]
+[1] "Cinnyris chloropygius_Olive-bellied Sunbird"
+
+[[49]]
+[1] "Ceryle rudis_Pied Kingfisher"
+
+[[50]]
+[1] "Bubalornis albirostris_White-billed Buffalo-Weaver"
+
+[[51]]
+[1] "Bycanistes fistulator_Piping Hornbill"
+
+[[52]]
+[1] "Camaroptera brachyura_Green-backed Camaroptera"
+
+[[53]]
+[1] "Turdus pelios_African Thrush"
+
+[[54]]
+[1] "Eurillas virens_Little Greenbul"
+
+[[55]]
+[1] "Cecropis abyssinica_Lesser Striped Swallow"
+
+[[56]]
+[1] "Actophilornis africanus_African Jacana"
+
+[[57]]
+[1] "Kaupifalco monogrammicus_Lizard Buzzard"
+
+[[58]]
+[1] "Cuculus solitarius_Red-chested Cuckoo"
+
+[[59]]
+[1] "Cinnyris cupreus_Copper Sunbird"
+
+[[60]]
+[1] "Vidua macroura_Pin-tailed Whydah"
+
+[[61]]
+[1] "Cossypha albicapillus_White-crowned Robin-Chat"
+
+[[62]]
+[1] "Halcyon senegalensis_Woodland Kingfisher"
+
+[[63]]
+[1] "Hylia prasina_Green Hylia"
+
+[[64]]
+[1] "Prinia subflava_Tawny-flanked Prinia"
+
+[[65]]
+[1] "Criniger calurus_Red-tailed Greenbul"
+
+[[66]]
+[1] "Elminia longicauda_African Blue Flycatcher"
+
+[[67]]
+[1] "Ardea melanocephala_Black-headed Heron"
+
+[[68]]
+[1] "Lophoceros nasutus_African Gray Hornbill"
+
+[[69]]
+[1] "Nicator chloris_Western Nicator"
+
+[[70]]
+[1] "Pogoniulus bilineatus_Yellow-rumped Tinkerbird"
+
+[[71]]
+[1] "Polyboroides typus_African Harrier-Hawk"
+
+[[72]]
+[1] "Tricholaema hirsuta_Hairy-breasted Barbet"
+
+[[73]]
+[1] "Terpsiphone rufiventer_Black-headed Paradise-Flycatcher"
+
+[[74]]
+[1] "Pogoniulus atroflavus_Red-rumped Tinkerbird"
+
+[[75]]
+[1] "Quelea quelea_Red-billed Quelea"
+
+[[76]]
+[1] "Sarothrura pulchra_White-spotted Flufftail"
+
+[[77]]
+[1] "Caprimulgus natalensis_Swamp Nightjar"
+
+[[78]]
+[1] "Haliaeetus vocifer_African Fish-Eagle"
+
+[[79]]
+[1] "Pachyphantes superciliosus_Compact Weaver"
+
+[[80]]
+[1] "Phylloscopus trochilus_Willow Warbler"
+
+[[81]]
+[1] "Psittacula krameri_Rose-ringed Parakeet"
+
+[[82]]
+[1] "Cossypha niveicapilla_Snowy-crowned Robin-Chat"
+
+[[83]]
+[1] "Corythornis cristatus_Malachite Kingfisher"
+
+[[84]]
+[1] "Stelgidillas gracilirostris_Slender-billed Greenbul"
+
+[[85]]
+[1] "Melocichla mentalis_Moustached Grass-Warbler"
+
+[[86]]
+[1] "Melaenornis edolioides_Northern Black-Flycatcher"
+
+[[87]]
+[1] "Treron calvus_African Green-Pigeon"
+
+[[88]]
+[1] "Tockus kempi_Western Red-billed Hornbill"
+
+[[89]]
+[1] "Chloropicus fuscescens_Cardinal Woodpecker"
+
+[[90]]
+[1] "Terpsiphone viridis_African Paradise-Flycatcher"
+
+[[91]]
+[1] "Ploceus nigerrimus_Vieillot's Weaver"
+
+[[92]]
+[1] "Phoenicopterus roseus_Greater Flamingo"
+
+[[93]]
+[1] "Lophaetus occipitalis_Long-crested Eagle"
+
+[[94]]
+[1] "Accipiter melanoleucus_Black Goshawk"
+
+[[95]]
+[1] "Chlorocichla simplex_Simple Greenbul"
+
+[[96]]
+[1] "Merops persicus_Blue-cheeked Bee-eater"
+
+[[97]]
+[1] "Ploceus cucullatus_Village Weaver"
+
+[[98]]
+[1] "Merops apiaster_European Bee-eater"
+
+[[99]]
+[1] "Tchagra senegalus_Black-crowned Tchagra"
+
+[[100]]
+[1] "Cinnyris venustus_Variable Sunbird"
+
+[[101]]
+[1] "Ardea cinerea_Gray Heron"
+
+[[102]]
+[1] "Sylvietta virens_Green Crombec"
+
+[[103]]
+[1] "Lophoceros fasciatus_African Pied Hornbill"
+
+[[104]]
+[1] "Illadopsis fulvescens_Brown Illadopsis"
+
+[[105]]
+[1] "Platysteira cyanea_Brown-throated Wattle-eye"
+
+[[106]]
+[1] "Ptilopsis leucotis_Northern White-faced Owl"
+
+[[107]]
+[1] "Cinnyris pulchellus_Beautiful Sunbird"
+
+[[108]]
+[1] "Motacilla flava_Western Yellow Wagtail"
+
+[[109]]
+[1] "Chrysococcyx caprius_Dideric Cuckoo"
+
+[[110]]
+[1] "Turtur afer_Blue-spotted Wood-Dove"
+
+[[111]]
+[1] "Actitis hypoleucos_Common Sandpiper"
+
+[[112]]
+[1] "Apus affinis_Little Swift"
+
+[[113]]
+[1] "Phoeniconaias minor_Lesser Flamingo"
+
+[[114]]
+[1] "Cisticola erythrops_Red-faced Cisticola"
+
+[[115]]
+[1] "Ardea alba_Great Egret"
+
+[[116]]
+[1] "Otus senegalensis_African Scops-Owl"
+
+[[117]]
+[1] "Cinnyricinclus leucogaster_Violet-backed Starling"
+
+[[118]]
+[1] "Prionops plumatus_White Helmetshrike"
+
+[[119]]
+[1] "Egretta garzetta_Little Egret"
+
+[[120]]
+[1] "Cyanomitra olivacea_Olive Sunbird"
+
+[[121]]
+[1] "Bias musicus_Black-and-white Shrike-flycatcher"
+
+[[122]]
+[1] "Eurillas latirostris_Yellow-whiskered Greenbul"
+
+[[123]]
+[1] "Anthus leucophrys_Plain-backed Pipit"
+
+[[124]]
+[1] "Ortygospiza atricollis_Quailfinch"
+
+[[125]]
+[1] "Camaroptera chloronota_Olive-green Camaroptera"
+
+[[126]]
+[1] "Hirundo rustica_Barn Swallow"
+
+[[127]]
+[1] "Oriolus auratus_African Golden Oriole"
+
+[[128]]
+[1] "Saxicola torquatus_African Stonechat"
+
+[[129]]
+[1] "Stephanoaetus coronatus_Crowned Eagle"
+
+[[130]]
+[1] "Malaconotus blanchoti_Gray-headed Bushshrike"
+
+[[131]]
+[1] "Zapornia flavirostra_Black Crake"
+
+[[132]]
+[1] "Dryoscopus gambensis_Northern Puffback"
+
+[[133]]
+[1] "Chrysococcyx klaas_Klaas's Cuckoo"
+
+[[134]]
+[1] "Glaucestrilda caerulescens_Lavender Waxbill"
+
+[[135]]
+[1] "Laniarius major_Tropical Boubou"
+
+[[136]]
+[1] "Delichon urbicum_Common House-Martin"
+
+[[137]]
+[1] "Merops pusillus_Little Bee-eater"
+
+[[138]]
+[1] "Lanius humeralis_Northern Fiscal"
+
+[[139]]
+[1] "Megaceryle maxima_Giant Kingfisher"
+
+[[140]]
+[1] "Cisticola marginatus_Winding Cisticola"
+
+[[141]]
+[1] "Milvus migrans_Black Kite"
+
+[[142]]
+[1] "Strix woodfordii_African Wood-Owl"
+
+[[143]]
+[1] "Cisticola lateralis_Whistling Cisticola"
+
+[[144]]
+[1] "Accipiter badius_Shikra"
+
+[[145]]
+[1] "Motacilla aguimp_African Pied Wagtail"
+
+[[146]]
+[1] "Caprimulgus tristigma_Freckled Nightjar"
+
+[[147]]
+[1] "Bubulcus ibis_Cattle Egret"
+
+[[148]]
+[1] "Circus aeruginosus_Eurasian Marsh-Harrier"
+
+[[149]]
+[1] "Acrocephalus schoenobaenus_Sedge Warbler"
+
+[[150]]
+[1] "Sylvia borin_Garden Warbler"
+
+[[151]]
+[1] "Ficedula hypoleuca_European Pied Flycatcher"
+
+[[152]]
+[1] "Halcyon chelicuti_Striped Kingfisher"
+
+[[153]]
+[1] "Cyanomitra verticalis_Green-headed Sunbird"
+
+[[154]]
+[1] "Buphagus africanus_Yellow-billed Oxpecker"
+
+[[155]]
+[1] "Acrocephalus scirpaceus_Eurasian Reed Warbler"
+
+[[156]]
+[1] "Gelochelidon nilotica_Gull-billed Tern"
+
+[[157]]
+[1] "Vidua chalybeata_Village Indigobird"
+
+[[158]]
+[1] "Ploceus nigricollis_Black-necked Weaver"
+
+[[159]]
+[1] "Phoenicurus phoenicurus_Common Redstart"
+
+[[160]]
+[1] "Eurystomus glaucurus_Broad-billed Roller"
+
+[[161]]
+[1] "Amblyospiza albifrons_Grosbeak Weaver"
+
+[[162]]
+[1] "Fraseria plumbea_Gray Tit-Flycatcher"
+
+[[163]]
+[1] "Thalasseus sandvicensis_Sandwich Tern"
+
+[[164]]
+[1] "Butorides striata_Striated Heron"
+
+[[165]]
+[1] "Hippolais polyglotta_Melodious Warbler"
+
+[[166]]
+[1] "Lagonosticta rubricata_African Firefinch"
+
+[[167]]
+[1] "Cecropis semirufa_Rufous-chested Swallow"
+
+[[168]]
+[1] "Merops albicollis_White-throated Bee-eater"
+
+[[169]]
+[1] "Macronyx croceus_Yellow-throated Longclaw"
+
+[[170]]
+[1] "Cuculus gularis_African Cuckoo"
+
+[[171]]
+[1] "Estrilda troglodytes_Black-rumped Waxbill"
+
+[[172]]
+[1] "Haematopus ostralegus_Eurasian Oystercatcher"
+
+[[173]]
+[1] "Indicator minor_Lesser Honeyguide"
+
+[[174]]
+[1] "Apus apus_Common Swift"
+
+[[175]]
+[1] "Telophorus sulfureopectus_Sulphur-breasted Bushshrike"
+
+[[176]]
+[1] "Circus macrourus_Pallid Harrier"
+
+[[177]]
+[1] "Dendrocygna viduata_White-faced Whistling-Duck"
+
+[[178]]
+[1] "Tringa nebularia_Common Greenshank"
+
+[[179]]
+[1] "Luscinia megarhynchos_Common Nightingale"
+
+[[180]]
+[1] "Muscicapa striata_Spotted Flycatcher"
+
+[[181]]
+[1] "Centropus monachus_Blue-headed Coucal"
+
+[[182]]
+[1] "Zosterops senegalensis_Northern Yellow White-eye"
+
+[[183]]
+[1] "Gallinago gallinago_Common Snipe"
+
+[[184]]
+[1] "Merops hirundineus_Swallow-tailed Bee-eater"
+
+[[185]]
+[1] "Euplectes afer_Yellow-crowned Bishop"
+
+[[186]]
+[1] "Bubo lacteus_Verreaux's Eagle-Owl"
+
+[[187]]
+[1] "Euplectes hordeaceus_Black-winged Bishop"
+
+[[188]]
+[1] "Calidris canutus_Red Knot"
+
+[[189]]
+[1] "Numida meleagris_Helmeted Guineafowl"
+
+[[190]]
+[1] "Charadrius hiaticula_Common Ringed Plover"
+
+[[191]]
+[1] "Chloropicus goertae_African Gray Woodpecker"
+
+[[192]]
+[1] "Estrilda melpoda_Orange-cheeked Waxbill"
+
+[[193]]
+[1] "Guttera pucherani_Crested Guineafowl"
+
+[[194]]
+[1] "Macheiramphus alcinus_Bat Hawk"
+
+[[195]]
+[1] "Cisticola cantans_Singing Cisticola"
+
+[[196]]
+[1] "Tringa stagnatilis_Marsh Sandpiper"
+
+[[197]]
+[1] "Ptyonoprogne fuligula_Rock Martin"
+
+[[198]]
+[1] "Euplectes franciscanus_Northern Red Bishop"
+
+[[199]]
+[1] "Jynx torquilla_Eurasian Wryneck"
+
+[[200]]
+[1] "Clamator levaillantii_Levaillant's Cuckoo"
+
+[[201]]
+[1] "Halcyon leucocephala_Gray-headed Kingfisher"
+
+[[202]]
+[1] "Tringa glareola_Wood Sandpiper"
+
+[[203]]
+[1] "Acrocephalus arundinaceus_Great Reed Warbler"
+
+[[204]]
+[1] "Upupa epops_Eurasian Hoopoe"
+
+[[205]]
+[1] "Apus caffer_White-rumped Swift"
+
+[[206]]
+[1] "Himantopus himantopus_Black-winged Stilt"
+
+[[207]]
+[1] "Sylvietta brachyura_Northern Crombec"
+
+[[208]]
+[1] "Lanius senator_Woodchat Shrike"
+
+[[209]]
+[1] "Anthus trivialis_Tree Pipit"
+
+[[210]]
+[1] "Sporopipes frontalis_Speckle-fronted Weaver"
+
+[[211]]
+[1] "Riparia riparia_Bank Swallow"
+
+[[212]]
+[1] "Calidris pugnax_Ruff"
+
+[[213]]
+[1] "Thalasseus bengalensis_Lesser Crested Tern"
+
+[[214]]
+[1] "Cisticola natalensis_Croaking Cisticola"
+
+[[215]]
+[1] "Chlidonias leucopterus_White-winged Tern"
+
+[[216]]
+[1] "Uraeginthus bengalus_Red-cheeked Cordonbleu"
+
+[[217]]
+[1] "Ixobrychus minutus_Little Bittern"
+
+[[218]]
+[1] "Gallinula chloropus_Eurasian Moorhen"
+
+[[219]]
+[1] "Rostratula benghalensis_Greater Painted-Snipe"
+
+[[220]]
+[1] "Calidris ferruginea_Curlew Sandpiper"
+
+[[221]]
+[1] "Muscicapa aquatica_Swamp Flycatcher"
+
+[[222]]
+[1] "Indicator indicator_Greater Honeyguide"
+
+[[223]]
+[1] "Ardea purpurea_Purple Heron"
+
+[[224]]
+[1] "Ardeola ralloides_Squacco Heron"
+
+[[225]]
+[1] "Falco tinnunculus_Eurasian Kestrel"
+
+[[226]]
+[1] "Gymnoris dentata_Sahel Bush Sparrow"
+
+[[227]]
+[1] "Tringa totanus_Common Redshank"
+
+[[228]]
+[1] "Pandion haliaetus_Osprey"
+
+[[229]]
+[1] "Oenanthe oenanthe_Northern Wheatear"
+
+[[230]]
+[1] "Cisticola brachypterus_Siffling Cisticola"
+
+[[231]]
+[1] "Saxicola rubetra_Whinchat"
+
+[[232]]
+[1] "Anthus cervinus_Red-throated Pipit"
+
+[[233]]
+[1] "Glareola pratincola_Collared Pratincole"
+
+[[234]]
+[1] "Emberiza hortulana_Ortolan Bunting"
+
+[[235]]
+[1] "Sterna hirundo_Common Tern"
+
+[[236]]
+[1] "Sterna dougallii_Roseate Tern"
+
+[[237]]
+[1] "Calidris minuta_Little Stint"
+
+[[238]]
+[1] "Nycticorax nycticorax_Black-crowned Night-Heron"
+
+[[239]]
+[1] "Elanus caeruleus_Black-winged Kite"
+
+[[240]]
+[1] "Charadrius alexandrinus_Kentish Plover"
+
+[[241]]
+[1] "Calidris alba_Sanderling"
+
+[[242]]
+[1] "Cecropis daurica_Red-rumped Swallow"
+
+[[243]]
+[1] "Ptilostomus afer_Piapiac"
+
+[[244]]
+[1] "Coracina pectoralis_White-breasted Cuckooshrike"
+
+[[245]]
+[1] "Streptopelia turtur_European Turtle-Dove"
+
+[[246]]
+[1] "Leptoptilos crumenifer_Marabou Stork"
+
+[[247]]
+[1] "Anthus similis_Long-billed Pipit"
+
+[[248]]
+[1] "Arenaria interpres_Ruddy Turnstone"
+
+[[249]]
+[1] "Circus pygargus_Montagu's Harrier"
+
+[[250]]
+[1] "Ardea intermedia_Intermediate Egret"
+
+[[251]]
+[1] "Columba guinea_Speckled Pigeon"
+
+[[252]]
+[1] "Vanellus spinosus_Spur-winged Lapwing"
+
+[[253]]
+[1] "Cisticola juncidis_Zitting Cisticola"
+
+[[254]]
+[1] "Chroicocephalus cirrocephalus_Gray-hooded Gull"
+
+[[255]]
+[1] "Atimastillas flavicollis_Yellow-throated Greenbul"
+
+[[256]]
+[1] "Clamator glandarius_Great Spotted Cuckoo"
+
+[[257]]
+[1] "Motacilla alba_White Wagtail"
+
+[[258]]
+[1] "Sylvia atricapilla_Eurasian Blackcap"
+
+[[259]]
+[1] "Pluvialis squatarola_Black-bellied Plover"
+
+[[260]]
+[1] "Turdoides plebejus_Brown Babbler"
+
+[[261]]
+[1] "Apalis flavida_Yellow-breasted Apalis"
+
+[[262]]
+[1] "Hydroprogne caspia_Caspian Tern"
+
+[[263]]
+[1] "Iduna pallida_Eastern Olivaceous Warbler"
+
+[[264]]
+[1] "Monticola saxatilis_Rufous-tailed Rock-Thrush"
+
+[[265]]
+[1] "Chlidonias niger_Black Tern"
+
+[[266]]
+[1] "Cuculus canorus_Common Cuckoo"
+
+[[267]]
+[1] "Lanius corvinus_Yellow-billed Shrike"
+
+[[268]]
+[1] "Nilaus afer_Brubru"
+
+[[269]]
+[1] "Tachybaptus ruficollis_Little Grebe"
+
+[[270]]
+[1] "Hirundo smithii_Wire-tailed Swallow"
+
+[[271]]
+[1] "Alopochen aegyptiaca_Egyptian Goose"
+
+[[272]]
+[1] "Chlidonias hybrida_Whiskered Tern"
+
+[[273]]
+[1] "Micronisus gabar_Gabar Goshawk"
+
+[[274]]
+[1] "Falco peregrinus_Peregrine Falcon"
+
+[[275]]
+[1] "Calidris alpina_Dunlin"
+
+[[276]]
+[1] "Charadrius dubius_Little Ringed Plover"
+
+[[277]]
+[1] "Egretta gularis_Western Reef-Heron"
+
+[[278]]
+[1] "Zapornia parva_Little Crake"
+
+[[279]]
+[1] "Phylloscopus collybita_Common Chiffchaff"
+
+[[280]]
+[1] "Ptilopachus petrosus_Stone Partridge"
+
+[[281]]
+[1] "Lymnocryptes minimus_Jack Snipe"
+
+[[282]]
+[1] "Larus fuscus_Lesser Black-backed Gull"
+
+[[283]]
+[1] "Tyto alba_Barn Owl"
+
+[[284]]
+[1] "Phoeniculus purpureus_Green Woodhoopoe"
+
+[[285]]
+[1] "Oriolus oriolus_Eurasian Golden Oriole"
+
+[[286]]
+[1] "Caprimulgus nigriscapularis_Black-shouldered Nightjar"
+
+[[287]]
+[1] "Numenius phaeopus_Whimbrel"
+
+[[288]]
+[1] "Limosa lapponica_Bar-tailed Godwit"
+
+[[289]]
+[1] "Estrilda astrild_Common Waxbill"
+
+[[290]]
+[1] "Turtur abyssinicus_Black-billed Wood-Dove"
+
+[[291]]
+[1] "Turnix sylvaticus_Small Buttonquail"
+
+[[292]]
+[1] "Limosa limosa_Black-tailed Godwit"
+
+[[293]]
+[1] "Pytilia melba_Green-winged Pytilia"
+
+[[294]]
+[1] "Spatula querquedula_Garganey"
+
+[[295]]
+[1] "Tringa erythropus_Spotted Redshank"
+
+[[296]]
+[1] "Sternula albifrons_Little Tern"
+
+[[297]]
+[1] "Euodice cantans_African Silverbill"
+
+[[298]]
+[1] "Mirafra rufocinnamomea_Flappet Lark"
+
+[[299]]
+[1] "Glaucidium perlatum_Pearl-spotted Owlet"
+
+[[300]]
+[1] "Clamator jacobinus_Pied Cuckoo"
+
+[[301]]
+[1] "Recurvirostra avosetta_Pied Avocet"
+
+[[302]]
+[1] "Curruca communis_Greater Whitethroat"
+
+[[303]]
+[1] "Neocossyphus finschi_Finsch's Flycatcher-Thrush"
+
+[[304]]
+[1] "Anas acuta_Northern Pintail"
+
+[[305]]
+[1] "Iduna opaca_Western Olivaceous Warbler"
+
+[[306]]
+[1] "Calidris temminckii_Temminck's Stint"
+
+[[307]]
+[1] "Falco naumanni_Lesser Kestrel"
+
+[[308]]
+[1] "Criniger barbatus_Western Bearded-Greenbul"
+
+[[309]]
+[1] "Macrosphenus kempi_Kemp's Longbill"
+
+[[310]]
+[1] "Apalis sharpii_Sharpe's Apalis"
+
+[[311]]
+[1] "Coturnix coturnix_Common Quail"
+
+[[312]]
+[1] "Corythaeola cristata_Great Blue Turaco"
+
+[[313]]
+[1] "Ciconia nigra_Black Stork"
+
+[[314]]
+[1] "Platysteira concreta_Yellow-bellied Wattle-eye"
+
+[[315]]
+[1] "Porphyrio madagascariensis_African Swamphen"
+
+[[316]]
+[1] "Rallus caerulescens_African Rail"
+
+[[317]]
+[1] "Eupodotis senegalensis_White-bellied Bustard"
+
+[[318]]
+[1] "Cisticola aberrans_Rock-loving Cisticola"
+
+[[319]]
+[1] "Stercorarius parasiticus_Parasitic Jaeger"
+
+[[320]]
+[1] "Tauraco macrorhynchus_Yellow-billed Turaco"
+
+[[321]]
+[1] "Platysteira blissetti_Red-cheeked Wattle-eye"
+
+[[322]]
+[1] "Gallinago media_Great Snipe"
+
+[[323]]
+[1] "Larus dominicanus_Kelp Gull"
+
+[[324]]
+[1] "Merops bulocki_Red-throated Bee-eater"
+
+[[325]]
+[1] "Thamnolaea cinnamomeiventris_Mocking Cliff-Chat"
+
+[[326]]
+[1] "Stercorarius pomarinus_Pomarine Jaeger"
+
+[[327]]
+[1] "Cercotrichas galactotes_Rufous-tailed Scrub-Robin"
+
+[[328]]
+[1] "Ciconia ciconia_White Stork"
+
+[[329]]
+[1] "Locustella naevia_Common Grasshopper-Warbler"
+
+[[330]]
+[1] "Cyanomitra cyanolaema_Blue-throated Brown Sunbird"
+
+[[331]]
+[1] "Cercococcyx mechowi_Dusky Long-tailed Cuckoo"
+
+[[332]]
+[1] "Euplectes ardens_Red-collared Widowbird"
+
+[[333]]
+[1] "Neocossyphus poensis_White-tailed Ant-Thrush"
+
+[[334]]
+[1] "Cercococcyx olivinus_Olive Long-tailed Cuckoo"
+
+[[335]]
+[1] "Vanellus tectus_Black-headed Lapwing"
+
+[[336]]
+[1] "Plocepasser superciliosus_Chestnut-crowned Sparrow-Weaver"
+
+[[337]]
+[1] "Oena capensis_Namaqua Dove"
+
+[[338]]
+[1] "Columba unicincta_Afep Pigeon"
+
+[[339]]
+[1] "Ceratogymna atrata_Black-casqued Hornbill"
+
+[[340]]
+[1] "Illadopsis rufipennis_Pale-breasted Illadopsis"
+
+[[341]]
+[1] "Halcyon badia_Chocolate-backed Kingfisher"
+
+[[342]]
+[1] "Columba iriditorques_Bronze-naped Pigeon"
+
+[[343]]
+[1] "Chrysococcyx cupreus_African Emerald Cuckoo"
+
+[[344]]
+[1] "Eurillas ansorgei_Ansorge's Greenbul"
+
+[[345]]
+[1] "Ixonotus guttatus_Spotted Greenbul"
+
+[[346]]
+[1] "Lamprotornis chalybaeus_Greater Blue-eared Starling"
+
+[[347]]
+[1] "Lophoceros camurus_Red-billed Dwarf Hornbill"
+
+[[348]]
+[1] "Smithornis rufolateralis_Rufous-sided Broadbill"
+
+[[349]]
+[1] "Ploceus melanocephalus_Black-headed Weaver"
+
+[[350]]
+[1] "Chroicocephalus genei_Slender-billed Gull"
+
+[[351]]
+[1] "Oriolus brachyrynchus_Western Black-headed Oriole"
+
+[[352]]
+[1] "Burhinus oedicnemus_Eurasian Thick-knee"
+
+[[353]]
+[1] "Cuculus clamosus_Black Cuckoo"
+
+[[354]]
+[1] "Hieraaetus pennatus_Booted Eagle"
+
+[[355]]
+[1] "Otus scops_Eurasian Scops-Owl"
+
+[[356]]
+[1] "Bycanistes subcylindricus_Black-and-white-casqued Hornbill"
+
+[[357]]
+[1] "Vidua funerea_Variable Indigobird"
+
+[[358]]
+[1] "Burhinus capensis_Spotted Thick-knee"
+
+[[359]]
+[1] "Lybius bidentatus_Double-toothed Barbet"
+
+[[360]]
+[1] "Gymnobucco calvus_Naked-faced Barbet"
+
+[[361]]
+[1] "Bleda syndactylus_Red-tailed Bristlebill"
+
+[[362]]
+[1] "Dicrurus atripennis_Shining Drongo"
+
+[[363]]
+[1] "Macrosphenus concolor_Gray Longbill"
+
+[[364]]
+[1] "Horizocerus albocristatus_White-crested Hornbill"
+
+[[365]]
+[1] "Chroicocephalus ridibundus_Black-headed Gull"
+
+[[366]]
+[1] "Baeopogon indicator_Honeyguide Greenbul"
+
+[[367]]
+[1] "Mirafra cantillans_Singing Bushlark"
+
+[[368]]
+[1] "Apaloderma narina_Narina Trogon"
+
+[[369]]
+[1] "Tchagra australis_Brown-crowned Tchagra"
+
+[[370]]
+[1] "Trochocercus nitens_Blue-headed Crested-Flycatcher"
+
+[[371]]
+[1] "Turtur tympanistria_Tambourine Dove"
+
+[[372]]
+[1] "Pogoniulus scolopaceus_Speckled Tinkerbird"
+
+[[373]]
+[1] "Asio flammeus_Short-eared Owl"
+
+[[374]]
+[1] "Calonectris diomedea_Cory's Shearwater"
+
+[[375]]
+[1] "Pogoniulus subsulphureus_Yellow-throated Tinkerbird"
+
+[[376]]
+[1] "Ploceus luteolus_Little Weaver"
+
+[[377]]
+[1] "Oenanthe familiaris_Familiar Chat"
+
+[[378]]
+[1] "Tringa ochropus_Green Sandpiper"
+
+[[379]]
+[1] "Phalacrocorax carbo_Great Cormorant"
+
+[[380]]
+[1] "Myrmecocichla nigra_Sooty Chat"
+
+[[381]]
+[1] "Phaethon aethereus_Red-billed Tropicbird"
+
+[[382]]
+[1] "Eurystomus orientalis_Dollarbird"
+
+[[383]]
+[1] "Campethera abingoni_Golden-tailed Woodpecker"
+
+[[384]]
+[1] "Stiphrornis erythrothorax_Forest Robin"
+
+[[385]]
+[1] "Anthus campestris_Tawny Pipit"
+
+[[386]]
+[1] "Nigrita canicapillus_Gray-headed Nigrita"
+
+[[387]]
+[1] "Emberiza cabanisi_Cabanis's Bunting"
+
+[[388]]
+[1] "Stercorarius longicaudus_Long-tailed Jaeger"
+
+[[389]]
+[1] "Oriolus nigripennis_Black-winged Oriole"
+
+[[390]]
+[1] "Dendrocygna bicolor_Fulvous Whistling-Duck"
+
+[[391]]
+[1] "Buccanodon duchaillui_Yellow-spotted Barbet"
+
+[[392]]
+[1] "Platalea leucorodia_Eurasian Spoonbill"
+
+[[393]]
+[1] "Numenius arquata_Eurasian Curlew"
+
+[[394]]
+[1] "Passer domesticus_House Sparrow"
+
+[[395]]
+[1] "Porzana porzana_Spotted Crake"
+
+[[396]]
+[1] "Sarothrura elegans_Buff-spotted Flufftail"
+
+[[397]]
+[1] "Acrocephalus rufescens_Greater Swamp Warbler"
+
+[[398]]
+[1] "Hydrobates pelagicus_European Storm-Petrel"
+
+[[399]]
+[1] "Spatula clypeata_Northern Shoveler"
+
+[[400]]
+[1] "Ploceus vitellinus_Vitelline Masked-Weaver"
+
+[[401]]
+[1] "Buteo buteo_Common Buzzard"
+
+[[402]]
+[1] "Phylloscopus sibilatrix_Wood Warbler"
+
+[[403]]
+[1] "Pernis apivorus_European Honey-buzzard"
+
+[[404]]
+[1] "Phylloscopus bonelli_Western Bonelli's Warbler"
+
+[[405]]
+[1] "Circaetus gallicus_Short-toed Snake-Eagle"
+
+[[406]]
+[1] "Mirafra africana_Rufous-naped Lark"
+
+[[407]]
+[1] "Sterna paradisaea_Arctic Tern"
+
+[[408]]
+[1] "Anas crecca_Green-winged Teal"
+
+[[409]]
+[1] "Plegadis falcinellus_Glossy Ibis"
+
+[[410]]
+[1] "Lagonosticta rhodopareia_Jameson's Firefinch"
+
+[[411]]
+[1] "Emberiza flaviventris_Golden-breasted Bunting"
+
+[[412]]
+[1] "Curruca hortensis_Western Orphean Warbler"
+
+[[413]]
+[1] "Apus melba_Alpine Swift"
+
+[[414]]
+[1] "Columba larvata_Lemon Dove"
+
+[[415]]
+[1] "Columba livia_Rock Pigeon"
+
+[[416]]
+[1] "Merops orientalis_Green Bee-eater"
+
+[[417]]
+[1] "Motacilla clara_Mountain Wagtail"
+
+[[418]]
+[1] "Neocossyphus fraseri_Rufous Flycatcher-Thrush"
+
+[[419]]
+[1] "Cossypha polioptera_Gray-winged Robin-Chat"
+
+[[420]]
+[1] "Caprimulgus europaeus_Eurasian Nightjar"
+
+[[421]]
+[1] "Cryptospiza reichenovii_Red-faced Crimsonwing"
+
+[[422]]
+[1] "Campephaga quiscalina_Purple-throated Cuckooshrike"
+
+[[423]]
+[1] "Crithagra sulphurata_Brimstone Canary"
+
+[[424]]
+[1] "Chamaetylas poliocephala_Brown-chested Alethe"
+
+[[425]]
+[1] "Melaniparus funereus_Dusky Tit"
+
+[[426]]
+[1] "Cisticola anonymus_Chattering Cisticola"
+
+[[427]]
+[1] "Galerida cristata_Crested Lark"
+
+[[428]]
+[1] "Fulica atra_Eurasian Coot"
+
+[[429]]
+[1] "Fraseria caerulescens_Ashy Flycatcher"
+
+[[430]]
+[1] "Fraseria ocreata_African Forest-Flycatcher"
+
+[[431]]
+[1] "Fraseria griseigularis_Gray-throated Tit-Flycatcher"
+
+[[432]]
+[1] "Phoeniculus bollei_White-headed Woodhoopoe"
+
+[[433]]
+[1] "Oenanthe isabellina_Isabelline Wheatear"
+
+[[434]]
+[1] "Cossypha cyanocampter_Blue-shouldered Robin-Chat"
+
+[[435]]
+[1] "Eurillas curvirostris_Plain Greenbul"
+
+[[436]]
+[1] "Acrocephalus baeticatus_African Reed Warbler"
+
+[[437]]
+[1] "Trachyphonus purpuratus_Yellow-billed Barbet"
+
+[[438]]
+[1] "Dryotriorchis spectabilis_Congo Serpent-Eagle"
+
+[[439]]
+[1] "Glaucidium tephronotum_Red-chested Owlet"
+
+[[440]]
+[1] "Uraeginthus angolensis_Southern Cordonbleu"
+
+[[441]]
+[1] "Streptopelia decipiens_Mourning Collared-Dove"
+
+[[442]]
+[1] "Eremopterix nigriceps_Black-crowned Sparrow-Lark"
+
+[[443]]
+[1] "Psittacus erithacus_Gray Parrot"
+
+[[444]]
+[1] "Smithornis capensis_African Broadbill"
+
+[[445]]
+[1] "Coracias garrulus_European Roller"
+
+[[446]]
+[1] "Falco vespertinus_Red-footed Falcon"
+
+[[447]]
+[1] "Urotriorchis macrourus_Long-tailed Hawk"
+
+[[448]]
+[1] "Corvus ruficollis_Brown-necked Raven"
+
+[[449]]
+[1] "Luscinia svecica_Bluethroat"
+
+[[450]]
+[1] "Anas platyrhynchos_Mallard"
+
+[[451]]
+[1] "Poicephalus fuscicollis_Brown-necked Parrot"
+

@@ -1,0 +1,75 @@
+group_id,start,end,scientific_name,common_name,confidence,paths
+1,0,3,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,3,6,Eurillas virens,Little Greenbul,0.4,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,6,9,Eurillas virens,Little Greenbul,0.5,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,9,12,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,12,15,Eurillas virens,Little Greenbul,0.5,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,15,18,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,18,21,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,21,24,Eurillas virens,Little Greenbul,0.7,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,24,27,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,27,30,Eurillas virens,Little Greenbul,0.2,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,30,33,Eurillas virens,Little Greenbul,0.8,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,33,36,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,36,39,Eurillas virens,Little Greenbul,0.4,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,39,42,Eurillas virens,Little Greenbul,0.8,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,42,45,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,45,48,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,48,51,Eurillas virens,Little Greenbul,0.7,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,51,54,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,54,57,Eurillas virens,Little Greenbul,0.3,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,57,60,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,60,63,Eurillas virens,Little Greenbul,0.5,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,63,66,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,66,69,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+1,69,69.5,NA,NA,NA,/home/paul/Music/phone-misc/2023-09-02-little_greenbul.wav
+2,0,3,Cinnyris venustus,Variable Sunbird,0.9,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,0,3,Cinnyris chloropygius,Olive-bellied Sunbird,0.1,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,3,6,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,6,9,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,9,12,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,12,15,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,15,18,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,18,21,Cinnyris venustus,Variable Sunbird,0.2,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,21,24,Cinnyris venustus,Variable Sunbird,0.1,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,24,27,Cinnyris venustus,Variable Sunbird,0.5,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,27,30,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,30,33,Cinnyris venustus,Variable Sunbird,0.9,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,33,36,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,36,39,Cinnyris venustus,Variable Sunbird,0.8,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,39,42,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,42,45,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,45,48,Cinnyris venustus,Variable Sunbird,0.3,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,48,51,Cinnyris venustus,Variable Sunbird,0.2,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,51,54,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,54,57,Cinnyris venustus,Variable Sunbird,0.8,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,57,60,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,60,63,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+2,63,64.3,NA,NA,NA,/home/paul/Music/phone-misc/2024-02-17-variable_sunbird.wav
+3,0,3,Pogoniulus atroflavus,Red-rumped Tinkerbird,0.8,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+3,3,6,Pogoniulus atroflavus,Red-rumped Tinkerbird,0.6,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+3,6,9,Pogoniulus atroflavus,Red-rumped Tinkerbird,0.3,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+3,9,12,Pogoniulus atroflavus,Red-rumped Tinkerbird,0.4,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+3,12,15,Pogoniulus atroflavus,Red-rumped Tinkerbird,0.8,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+3,15,18,NA,NA,NA,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+3,18,18.8,NA,NA,NA,/home/paul/Music/phone-misc/red_rumped_tinkerbird.wav
+4,0,3,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,3,6,Halcyon malimbica,Blue-breasted Kingfisher,0.8,/home/paul/Music/phone-misc/samaya_1.wav
+4,6,9,Halcyon malimbica,Blue-breasted Kingfisher,1,/home/paul/Music/phone-misc/samaya_1.wav
+4,9,12,Halcyon malimbica,Blue-breasted Kingfisher,1,/home/paul/Music/phone-misc/samaya_1.wav
+4,9,12,Pandion haliaetus,Osprey,0.3,/home/paul/Music/phone-misc/samaya_1.wav
+4,12,15,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,15,18,Halcyon malimbica,Blue-breasted Kingfisher,0.9,/home/paul/Music/phone-misc/samaya_1.wav
+4,18,21,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,21,24,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,24,27,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,27,30,Halcyon malimbica,Blue-breasted Kingfisher,0.6,/home/paul/Music/phone-misc/samaya_1.wav
+4,30,33,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,33,36,Halcyon malimbica,Blue-breasted Kingfisher,0.3,/home/paul/Music/phone-misc/samaya_1.wav
+4,33,36,Pandion haliaetus,Osprey,0.2,/home/paul/Music/phone-misc/samaya_1.wav
+4,36,39,Halcyon malimbica,Blue-breasted Kingfisher,0.9,/home/paul/Music/phone-misc/samaya_1.wav
+4,39,42,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,42,45,Halcyon malimbica,Blue-breasted Kingfisher,0.8,/home/paul/Music/phone-misc/samaya_1.wav
+4,45,48,Halcyon malimbica,Blue-breasted Kingfisher,0.5,/home/paul/Music/phone-misc/samaya_1.wav
+4,48,51,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
+4,51,53.2,NA,NA,NA,/home/paul/Music/phone-misc/samaya_1.wav
